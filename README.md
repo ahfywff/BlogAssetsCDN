@@ -1,2 +1,2 @@
 # BlogAssetsCDN
-CDN for [feitalks.tech](feitalks.tech)
+CDN for [feitalks.tech](https://feitalks.tech)
